@@ -30,9 +30,6 @@ Khadeeza Parween
 AI Developer & Data Science Student
 
 
-
-Commit.
-
 ---
 
 # 🎉 YOU ARE DONE  
